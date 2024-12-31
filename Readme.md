@@ -1,4 +1,4 @@
-# AWS-serverless-blog-platform
+# Serverless Blog Platform
 
 Enterprise-grade blog platform demonstrating advanced AWS architecture with high availability, security, and serverless components including load balancing, auto-scaling, RDS, Lambda, and CloudFront.
 
